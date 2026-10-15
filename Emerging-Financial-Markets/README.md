@@ -1,0 +1,1 @@
+The assignment asked us to identify and explain in detail the forms of financial repression in one of the MSCI Emerging Markets (India) and critically analyse the effects of financial repression in that country.
