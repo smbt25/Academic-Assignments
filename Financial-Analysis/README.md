@@ -1,0 +1,1 @@
+This assignment was to provide an investment advisory to an institutional investor whether to invest £2 million in the shares of Nestle based on various metrics as decided by the participants in the assignment.
