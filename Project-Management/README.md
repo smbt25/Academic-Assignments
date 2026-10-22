@@ -92,7 +92,7 @@ The project has several limitations that should be considered when interpreting 
 - **Short monitoring period:** The pilot runs for eight months. Longer-term effects, such as durability over extended storage periods, customer behaviour changes, and full-scale cost efficiency, would require further evaluation.
 - **Assumption of stable conditions:** The plan assumes stable regulations, supplier performance, customer acceptance, and internal cooperation from Tesco teams. Significant changes in any of these areas could affect delivery.
 
-- ## Future Recommendations
+## Future Recommendations
 
 If the pilot meets its environmental, operational, and financial targets, the next step would be to evaluate a phased rollout across additional Tesco stores and ready-to-eat product categories. Future work should also assess long-term packaging durability, supplier scalability, customer disposal behaviour, and the availability of composting infrastructure.
 
