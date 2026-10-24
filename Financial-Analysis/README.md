@@ -6,7 +6,7 @@ Completed as part of the **C31FN Financial Analysis** course at **Heriot-Watt Un
 
 ---
 
-## 🚀 Executive Summary
+## Executive Summary
 
 This project provides a thorough evaluation of Nestlé's financial health, strategic positioning, operational efficiency, capital structure, ESG performance, and intrinsic valuation across a five-year review period (**2020–2024**). 
 
@@ -16,7 +16,7 @@ This project provides a thorough evaluation of Nestlé's financial health, strat
 
 ---
 
-## 📈 Key Financial Highlights & Findings
+## Key Financial Highlights & Findings
 
 * **Liquidity & Working Capital:** Maintained a Current Ratio below 1.0 ($0.82$ in 2024), reflecting a deliberate strategy to optimize working capital via extended trade payables and high inventory turnover rather than structural liquidity risk.
 * **Leverage & Capital Structure:** The Debt-to-Equity ratio increased significantly from $0.86$ (2020) to $1.73$ (2024), driven by debt-funded share buybacks designed to boost Earnings Per Share (EPS) and optimize capital structure.
@@ -25,7 +25,7 @@ This project provides a thorough evaluation of Nestlé's financial health, strat
 
 ---
 
-## 🌱 ESG Performance Highlights
+## ESG Performance Highlights
 
 Nestlé has demonstrated strong leadership across environmental and social metrics:
 * **Climate Action:** Achieved an absolute greenhouse gas emissions reduction of **20.38%**, surpassing its 2030 milestone ahead of schedule.
