@@ -25,6 +25,6 @@ This document investigates how the Indian government utilized financial repressi
 
 ---
 
-## 📌 Conclusion & Policy Implications
+## Conclusion & Policy Implications
 * **Trade-Offs:** Financial repression served as a mechanism for short-term fiscal obligations and targeted development, but it heavily compromised capital allocation efficiency and financial sector vitality.
 * **Policy Lesson:** Complete financial liberalization must be a gradual, well-sequenced process accompanied by robust institutional and regulatory development to minimize systemic risks while capturing efficiency gains.
