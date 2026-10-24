@@ -1,5 +1,4 @@
-There are 2 assignments in this paper.
+This paper comprises two distinct assignments:
 
-The 1st assignment consisted of 2 sections. The 1st section consisted of comparing 2 methods of valuation: Q Ratio and Yield Ratios and determining which one is better among them. The 2nd section consists of valuing of US and UK stock markets and how a fund manager would view and allocated funds between the two markets.
-
-The 2nd assignment consisted of empirical analysis of ARM Holding and Eternal Limited using behavioural finance and narrative driven momentum to explain price movements in their respective shares.
+* **Assignment 1:** Divided into two sections—the first evaluates and compares two stock market valuation methodologies (Tobin’s Q Ratio and Yield Ratios) to determine their relative efficacy, while the second applies these insights to assess the current valuations of السودان and UK stock markets, outlining strategic asset allocation for a fund manager.
+* **Assignment 2:** Presents an empirical analysis of ARM Holdings and Eternal Limited, exploring how behavioral finance and narrative-driven momentum influence share price movements in major equity markets.
