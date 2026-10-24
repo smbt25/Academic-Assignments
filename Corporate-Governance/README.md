@@ -1,7 +1,7 @@
 # Shareholder Democracy: The Biggest Weakness in Corporate Governance
 
 ## Executive Summary
-This project explores the premise that "shareholder democracy"—the ideal that shareholders directly control company decisions and hold management accountable—is largely a ceremonial concept rather than a functional mechanism of accountability. Due to agency costs, institutional dominance, short-termism, rational apathy, and information asymmetry, shareholder democracy often serves as a key vulnerability in modern corporate governance systems rather than an effective safeguard.
+This project explores the premise that "shareholder democracy" - the ideal that shareholders directly control company decisions and hold management accountable is largely a ceremonial concept rather than a functional mechanism of accountability. Due to agency costs, institutional dominance, short-termism, rational apathy, and information asymmetry, shareholder democracy often serves as a key vulnerability in modern corporate governance systems rather than an effective safeguard.
 
 ---
 
