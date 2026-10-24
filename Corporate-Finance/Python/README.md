@@ -16,7 +16,7 @@ This repository contains Python-based financial models and analyses developed fo
 * **Internal Rate of Return (IRR):** Project B delivers a significantly higher annualized return (**35.82%**) compared to Project A (**14.33%**).
 
 ### 2. Pershing Square Holdings: Asset Pricing & Event Study
-* **CAPM & Beta Estimation:** Applied Python (`statsmodels`, `yfinance`) to regress monthly returns of PSH.L against the FTSE 100 benchmark (2014–2024), yielding a Beta of **0.8047** and a statistically significant Alpha of **0.0152**.
+* **CAPM & Beta Estimation:** Applied Python (statsmodels, yfinance) to regress monthly returns of PSH.L against the FTSE 100 benchmark (2014–2024), yielding a Beta of **0.8047** and a statistically significant Alpha of **0.0152**.
 * **Market Efficiency & $R^2$:** The low $R^2$ (**0.205**) reflects structural differences between PSH's US-focused equity portfolio and its LSE listing, demonstrating how Python can diagnose index-asset mismatches.
 * **Event Study (Nike Stake Increase - Nov 14, 2024):** 
   * Implemented an automated event study pipeline to extract pre-event estimation windows, compute expected returns via the Market Model, and calculate abnormal returns.
@@ -36,13 +36,13 @@ This repository contains Python-based financial models and analyses developed fo
 ---
 
 ## Conclusions
-1. **Proficiency in Financial Programming:** The repository demonstrates a strong ability to bridge theoretical corporate finance concepts with practical Python programming—utilizing libraries like `pandas` for data manipulation, `yfinance` for automated data retrieval, `statsmodels` for econometric regressions, and `matplotlib` for financial visualization.
-2. **Analytical Problem Solving:** From solving capital budgeting constraints programmatically to executing rigorous event study pipelines, the code successfully transforms raw market data into actionable corporate finance insights.
-3. **Applied Decision-Making:** Applying these programmatic models directly to Pershing Square Holdings highlights the capacity to conduct real-world valuation, risk assessment, and corporate restructuring analyses.
+1. **Bridging Theory and Code:** Working through these assignments allowed me to successfully translate core financial concepts—such as time value of money, risk-adjusted returns, and merger accretion/dilution—into clean, functional Python code.
+2. **Mastering Financial Toolkits:** By utilizing libraries like pandas, numpy, statsmodels, and yfinance, I gained hands-on experience in managing end-to-end data pipelines, from fetching live market data to running robust econometric regressions.
+3. **Applied Analytical Thinking:** Applying these quantitative techniques directly to Pershing Square Holdings helped me look past textbook formulas and understand how real-world market dynamics, structural currency mismatches, and information efficiency actually manifest in code.
 
 ---
 
 ## Practical Implications
-1. **Automation of Financial Analysis:** Leveraging Python allows analysts to scale complex valuation models, handle large historical financial datasets, and execute rapid sensitivity analyses compared to traditional spreadsheet workflows.
-2. **Rigorous Empirical Testing:** Automated event study scripts enable finance professionals to test market efficiency hypotheses and measure event impacts with statistical precision ($t$-tests).
-3. **Dynamic M&A Structuring:** Programmatic M&A templates empower dealmakers to instantly simulate synergy hurdles, break-even thresholds, and EPS accretion/dilution across varying financing structures.
+1. **Confidence in Automated Modeling:** Building these scripts has given me the practical ability to move beyond static spreadsheets and build dynamic, reusable financial models that can quickly scale with new data.
+2. **Empirical Rigor:** Implementing event studies and regression models hands-on taught me how to critically evaluate market anomalies, test hypotheses with statistical significance ($t$-stats), and avoid over-interpreting market noise.
+3. **Readiness for Industry Applications:** The problem-solving frameworks and coding workflows developed in this project provide a solid foundation for tackling complex financial analysis, valuation tasks, and strategic decision-making in professional settings.
