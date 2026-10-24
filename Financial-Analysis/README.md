@@ -1,4 +1,4 @@
-# 📊 Nestlé S.A. — Financial Analysis & Investment Advisory Report
+# Nestlé S.A. — Financial Analysis & Investment Advisory Report
 
 An institutional-grade financial analysis and investment advisory report evaluating **Nestlé S.A. (NESN.S)** for a **£2,000,000** institutional investment allocation. 
 
