@@ -94,6 +94,4 @@ The project has several limitations that should be considered when interpreting 
 
 ## Future Recommendations
 
-If the pilot meets its environmental, operational, and financial targets, the next step would be to evaluate a phased rollout across additional Tesco stores and ready-to-eat product categories. Future work should also assess long-term packaging durability, supplier scalability, customer disposal behaviour, and the availability of composting infrastructure.
-
-Further analysis should compare the total cost of compostable packaging with conventional plastic packaging at larger volumes, as economies of scale may improve cost competitiveness. Finally, customer feedback and sales data should be monitored beyond the pilot period to understand whether the packaging change has any lasting effect on purchasing behaviour.
+If the pilot meets its environmental, operational, and financial targets, the next step would be to evaluate a phased rollout across additional Tesco stores and ready-to-eat product categories. Further analysis should compare the total cost of compostable packaging with conventional plastic packaging at larger volumes, as economies of scale may improve cost competitiveness. Finally, customer feedback and sales data should be monitored beyond the pilot period to understand whether the packaging change has any lasting effect on purchasing behaviour.
